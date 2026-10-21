@@ -1,5 +1,5 @@
 context:
-  version: "0.80.0"
+  version: "0.81.0"
 
 package:
   name: worktrunk
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/max-sixty/worktrunk/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: c533319363f874423b2075226cc4a89e1a383ac7dca39b11ccc132371a48d1ac
+  sha256: ab5cbc30f9b07b2ccb2133813f100deda77731dad0ce440332a34090de165d2d
 
 build:
   number: 0
